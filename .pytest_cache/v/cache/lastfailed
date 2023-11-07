@@ -1,0 +1,11 @@
+{
+  "Lib/site-packages/pip/_vendor/colorama/tests/ansitowin32_test.py::AnsiToWin32Test::test_native_windows_ansi": true,
+  "Lib/site-packages/pip/_vendor/colorama/tests/ansitowin32_test.py::AnsiToWin32Test::test_osc_codes": true,
+  "Lib/site-packages/pip/_vendor/colorama/tests/initialise_test.py::JustFixWindowsConsoleTest::testJustFixWindowsConsole": true,
+  "Lib/site-packages/pip/_vendor/colorama/tests/winterm_test.py::WinTermTest::testInit": true,
+  "Lib/site-packages/pip/_vendor/colorama/tests/winterm_test.py::WinTermTest::testResetAll": true,
+  "Lib/site-packages/pip/_vendor/colorama/tests/winterm_test.py::WinTermTest::testSetConsole": true,
+  "Lib/site-packages/pip/_vendor/colorama/tests/winterm_test.py::WinTermTest::testSetConsoleOnStderr": true,
+  "create_user_test.py::test_create_user_has_space_in_first_name_get_error_response": true,
+  "create_user_test.py::test_create_user_number_type_first_name_get_error_response": true
+}
