@@ -132,6 +132,7 @@ def test_create_user_has_special_symbol_in_first_name_get_error_response():
     # Параметр firstName содержит цифры
 def test_create_user_has_number_in_first_name_get_error_response():
     negative_assert_symbol("123")
+    
 
     # Тест 10. Ошибка
     # В запросе нет параметра firstName

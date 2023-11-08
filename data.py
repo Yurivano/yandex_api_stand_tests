@@ -2,6 +2,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
+
 user_body = {
     "firstName": "Анатолий",
     "phone": "+79995553322",
